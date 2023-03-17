@@ -16,7 +16,7 @@ Serviços de saúde e bem-estar: uma seção do aplicativo que ofereça informa�
 Estacionamento: uma seção do aplicativo que permita aos alunos verificar os espaços de estacionamento disponíveis na universidade, bem como visualizar informações sobre as regras de estacionamento e as multas.
 --------------------------------------------------------------------------------------------------------------
 
-#Utilizavel no momento
+# Utilizavel no momento
 Agenda de eventos: uma agenda de eventos da universidade, incluindo datas de início e término do semestre, feriados, palestras, apresentações, feiras de carreira e outras atividades relevantes.
 
 Informações de aulas: uma seção do aplicativo que permita aos alunos visualizar informações de suas aulas, como horários, professores, salas de aula e materiais do curso.
@@ -29,7 +29,7 @@ Lista de contatos: uma lista de contatos dos departamentos, professores e outros
 
 
 ---------------------------------------------
-#Telas
+# Telas
 
 1- Login
 2- Tela de curso
@@ -43,7 +43,7 @@ Lista de contatos: uma lista de contatos dos departamentos, professores e outros
     3.6-Secretaria
 
 ------------------------------------------------------------------------------------------------------------
-#Problema/solução
+# Problema/solução
 
 Problema: Fulano é um estudante universitário que está tendo dificuldades para se manter organizado durante o semestre. Ele está perdendo muitas atividades importantes, como eventos acadêmicos e aulas, além de ter dificuldade em se comunicar com o coordenador e os professores. Ele também não sabe quais cursos vai cursar no semestre, quais são os dias e horários das aulas e em qual sala de aula deverá ir. Além disso, ele está se sentindo sobrecarregado porque não tem certeza das datas importantes do semestre e quais tarefas da universidade precisa concluir. Fulano decide usar o aplicativo da universidade para ajudá-lo a organizar sua agenda e acompanhar as informações importantes do semestre.
 
