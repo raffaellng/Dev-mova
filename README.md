@@ -14,6 +14,7 @@ Biblioteca: uma seção do aplicativo que permita aos alunos pesquisar e reserva
 Serviços de saúde e bem-estar: uma seção do aplicativo que ofereça informações sobre os serviços de saúde e bem-estar disponíveis na universidade, incluindo clínicas médicas, serviços de aconselhamento e outros recursos.
 
 Estacionamento: uma seção do aplicativo que permita aos alunos verificar os espaços de estacionamento disponíveis na universidade, bem como visualizar informações sobre as regras de estacionamento e as multas.
+
 --------------------------------------------------------------------------------------------------------------
 
 # Utilizavel no momento
